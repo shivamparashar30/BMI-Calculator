@@ -78,7 +78,7 @@ let reload=()=>{
             </button>
           </div>
           <div className="center">
-            <h3>Your BMI is:{bmi}</h3>
+            <h3>Your BMI Ratio is:{bmi}</h3>
             <p>{message}</p>
           </div>
          
